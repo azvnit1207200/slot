@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"coin","texture":"50/21nY5dOSZJSIF/kXUrL","rect":[0,0,97,98],"offset":[0,0],"originalSize":[97,98],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"payline","_native":".plist","spriteFrame":{"__uuid__":"0bqQ+3yiBLgpQ0FTDF7I5u"}}]

@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"particle_default","texture":"76t8O2NCNACpCt8aRaveLE","rect":[1,1,29,29],"offset":[-0.5,0.5],"originalSize":[32,32],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"particle_longho_fire","_native":".plist"}]
